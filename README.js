@@ -34,4 +34,5 @@ class CreateMan extends lucky {
 }
 
 let lucky = new CreateMan()
-Wency.createDay();
+lucky.createDay();
+
